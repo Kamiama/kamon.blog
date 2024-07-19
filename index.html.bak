@@ -11,7 +11,14 @@
     <script src="/script.js" defer></script>
   </head>  
   <body>
-    <h1>kamon blong</h1>
-    <p>hi there</p>
+    <h1></h1>
+    <p>made you look</p>
+	<p></p>
+	<p>here are some pictures of some livestock:</p>
+	<p></p>
+	<img src="./assets/images/livestock/livestock1.png" alt="" aria-hidden="true">
+	<p></p>
+	<img src="./assets/images/livestock/livestock2.png" alt="" aria-hidden="true">
+	
   </body>
 </html>
